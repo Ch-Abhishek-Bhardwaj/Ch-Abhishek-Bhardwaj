@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">An Aspiring web3 developer from India</h3>
+<h3 align="center">An Aspiring web3 developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ch-abhishek-bhardwaj" alt="ch-abhishek-bhardwaj" /></a> </p>
 
