@@ -8,6 +8,13 @@
 ---
 
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ch-abhishek-bhardwaj&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
+</p>
+
+---
+
 ### 🚀 About Me
 - 🎓 Pursuing **B.Tech in Blockchain**
 - 🌱 Currently leveling up in **MERN Stack & Web3**
@@ -23,11 +30,13 @@
 <a href="https://www.leetcode.com/abhishek_rai_29" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30"/></a>
 </p>
 
+
+
 ---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,cpp,python,solidity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,cpp,python,solidity" />
 </p>
 
 
