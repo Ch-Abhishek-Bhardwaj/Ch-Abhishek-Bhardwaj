@@ -1,4 +1,10 @@
 <h1 align="center">👋 Hey, I'm Abhishek</h1>
+
+<div align= "center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=MERN+STACK;BLOCKCHAIN" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">Web2 → Web3 Developer | MERN | Blockchain Enthusiast</h3>
 
 <p align="center">
