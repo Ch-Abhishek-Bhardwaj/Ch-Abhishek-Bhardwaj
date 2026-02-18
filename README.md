@@ -16,8 +16,10 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ch-abhishek-bhardwaj&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-profile-trophy-git-masterryoo-ma.vercel.app/?username=Ch-Abhishek-Bhardwaj&theme=radical" />
 </p>
+
+
 
 ---
 
@@ -65,5 +67,6 @@ const Abhishek = {
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-abhishek-bhardwaj&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Ch-Abhishek-Bhardwaj&theme=radical" />
 </p>
+
