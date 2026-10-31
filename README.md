@@ -61,15 +61,13 @@ const Abhishek = {
 };
 ```
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ch-Abhishek-Bhardwaj)
-
-
-
-
-<p align="center">  <img src="https://badges.pufler.dev/commits?user=ch-abhishek-bhardwaj" alt="" /> &nbsp;&nbsp; <img src="https://badges.pufler.dev/years?user=ch-abhishek-bhardwaj" alt="" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ch-abhishek-bhardwaj&show_icons=true&theme=default" alt="" /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-abhishek-bhardwaj&show_icons=true&layout=compact" alt="top languages" /> 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ch-Abhishek-Bhardwaj&theme=radical" />
-</p>
-
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ch-Abhishek-Bhardwaj&layout=donut&theme=tokyonight&langs_count=10" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Ch-Abhishek-Bhardwaj&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
