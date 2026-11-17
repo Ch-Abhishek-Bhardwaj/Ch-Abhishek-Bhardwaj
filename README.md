@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hey, I'm Abhishek</h1>
+<h1 align="center">Hey, I'm Abhishek</h1>
 
 <div align= "center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=MERN+STACK;BLOCKCHAIN" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=MERN+STACK;BLOCKCHAIN;AI/ML" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">Web2 → Web3 Developer | MERN | Blockchain Enthusiast</h3>
+<h3 align="center">Web2 → Web3 Developer | MERN | AI/ML | Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ch-abhishek-bhardwaj&label=Profile%20Views&color=blue&style=flat" alt="view count"/>
@@ -13,19 +13,11 @@
 
 ---
 
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-git-masterryoo-ma.vercel.app/?username=Ch-Abhishek-Bhardwaj&theme=radical" />
-</p>
-
-
-
 ---
 
 ### 🚀 About Me
 - 🎓 Pursuing **B.Tech in Blockchain**
-- 🌱 Currently leveling up in **MERN Stack & Web3**
+- 🌱 Currently leveling up in **AI/ML & Web3**
 - 🔗 Interested in **Tokenization, Smart Contracts & Scalable Architectures**
 - 📫 Reach me at: **abhirai2006a@gmail.com**
 
@@ -45,7 +37,11 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,cpp,python,solidity" />
+  <div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,cpp,python,solidity,sklearn,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+</div>
 </p>
 
 
@@ -55,7 +51,7 @@
 ### 📌 Current Focus
 ```ts
 const Abhishek = {
-  learning: ["MERN", "WebSockets", "Blockchain"],
+  learning: ["MERN", "ML/DL", "Blockchain"],
   building: ["Full-stack projects", "Scalable architectures"],
   motto: "Consistency > Motivation",
 };
