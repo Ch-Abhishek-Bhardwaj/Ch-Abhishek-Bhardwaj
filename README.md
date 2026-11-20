@@ -12,6 +12,14 @@
 </p>
 
 ---
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/softenrj">
+    <img src="https://github-trophies.vercel.app/?username=ch-abhishek-bhardwaj&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 ---
 
